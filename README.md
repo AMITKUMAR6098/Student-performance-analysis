@@ -32,4 +32,4 @@ This project analyzes the Student Performance Dataset using Python.
 
 ### Author
 
-Ayushi Pandey
+Amit kumar
